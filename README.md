@@ -1,5 +1,10 @@
 ### 
 <div align="center">
+  <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
+</div>
+
+
+<div align="center">
   <h1 align="center">
     Olá! Seja Bem-Vindo, Eu sou o Felipe Santana
   </h1>
@@ -7,7 +12,6 @@
     Navegue um pouco sobre os meus projetos e veja um pouco do meu progresso.
   </p>
 </div>
-
 
 
 - 🔭 Hoje estou em busca de uma oportunidade para trabalhar com Front-End e Back-end Junior.
