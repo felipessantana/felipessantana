@@ -15,7 +15,7 @@
 
 
 - 🔭 Hoje estou em busca de uma oportunidade para trabalhar com Front-End e Back-end Junior.
-- 🌱 Estudando Java, Angular, Typescript, Mysql, Sql Server, C#, Spring Boot
+- 🌱 Estudando Java, Angular, Typescript, Mysql, Sql Server, C#, Spring Boot, Python
 - ❤️ Apaixonado por JAVA
   
 <div align="center" style="display: inline_block"><br>
